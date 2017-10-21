@@ -1,0 +1,6 @@
+framework module Pods_pSuCsTutor {
+  umbrella header "Pods-pSuCsTutor-umbrella.h"
+
+  export *
+  module * { export * }
+}
